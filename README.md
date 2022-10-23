@@ -16,5 +16,11 @@ Fault phase current increases, phase voltage increases.
 ### Main Transformer Fault.  
 The three-phase current increases, the fault phase voltage is about half of the normal voltage, and the non-fault phase voltage increases.  
 ![MTF](/images/IPSF.jpg)  
-
+## Document description.  
+The CSV file names 1, 2, 3, 4, and 5 correspond to different kinds of fault data.     
+      1-Single Phase Ground Fault (SGF)     
+      2-Phase to Phase Short Circuit Fault (IPSF)     
+      3-Two-phase ground fault (TGF)      
+      4-Main Transformer Fault (MTF)      
+      5-Normal data (Normal)    
 
