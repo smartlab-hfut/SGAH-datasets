@@ -10,5 +10,11 @@ Fault phase current increases and fault phase voltage decreases.
 ### Two-phase Grounding Fault.  
 Fault two-phase current increases, the voltage decreases, and the two fault phases have opposite currents.  
 ![TGF](/images/TPF.jpg)  
+### Inter Phase Short-circuit Fault.  
+Fault phase current increases, phase voltage increases.  
+![TGF](/images/IPSF.jpg)    
+### Main Transformer Fault.  
+The three-phase current increases, the fault phase voltage is about half of the normal voltage, and the non-fault phase voltage increases.  
+![MTF](/images/IPSF.jpg)  
 
 
