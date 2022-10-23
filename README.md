@@ -25,6 +25,6 @@ Different CSV files in the data folder correspond to different kinds of faults.
       5-Normal data (Normal)    
 Each CSV file contains multiple fault data of the same type.  
 Each fault data contains 100 sampling points of three-phase voltage and current data.  
-Each fault data contains three phase current (first three columns) and three phase voltage data (last three columns).   
-## Copyright  
+Each fault data contains three phase current data (first three columns) and three phase voltage data (last three columns).   
+## Copyright   
 See [LICENSE](LICENSE) for details.
