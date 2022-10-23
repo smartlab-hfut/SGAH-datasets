@@ -6,3 +6,4 @@ Each fault data contains 100 sampling points of three-phase voltage and current 
 ## Explanation of fault type.
 ### Single-phase Grounding Fault.  
 Fault phase current increases and fault phase voltage decreases.  
+![SGF](/images/SGF.jpg)
