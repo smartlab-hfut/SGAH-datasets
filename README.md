@@ -26,5 +26,5 @@ The CSV file names 1, 2, 3, 4, and 5 correspond to different kinds of fault data
 Each CSV file contains multiple fault data of the same type.  
 Each fault data contains 100 sampling points of three-phase voltage and current data.  
 Each fault data contains three phase current (first three columns) and three phase voltage data (last three columns).   
-## LICENSE  
-
+## Copyright  
+See [LICENSE](LICENSE) for details.
