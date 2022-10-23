@@ -17,7 +17,7 @@ Fault phase current increases, phase voltage increases.
 The three-phase current increases, the fault phase voltage is about half of the normal voltage, and the non-fault phase voltage increases.  
 ![MTF](/images/IPSF.jpg)  
 ## Document description.  
-The CSV file names 1, 2, 3, 4, and 5 correspond to different kinds of fault data.     
+Different CSV files in the data folder correspond to different kinds of faults.       
       1-Single Phase Ground Fault (SGF)     
       2-Inter Phase Short Circuit Fault (IPSF)     
       3-Two-phase Ground Fault (TGF)      
