@@ -29,20 +29,23 @@ Each fault data contains three phase current data (first three columns) and thre
 
 ## Reference
 If you use the codes or the datasets, please cite the following papers:   
-      @unknown{unknown,        
-               author = {Li, Qiyue and Deng, Yuxing and Liu, Xin and Sun, Wei and Li, Weitao and Li, Jie and Liu, Zhi},    
-               year = {2022},      
-               month = {05},     
-               pages = {},     
-               title = {Autonomous Smart Grid Fault Detection},   
-               doi = {10.48550/arXiv.2206.14150}    
-               }    
-      @article{li2022resource,    
-               title={Resource Orchestration of Cloud-edge based Smart Grid Fault Detection},    
-               author={Li, Jie and Deng, Yuxing and Sun, Wei and Li, Weitao and Li, Ruidong and Li, Qiyue and Liu, Zhi},   
-               journal={ACM Transactions on Sensor Networks (TOSN)},   
-               year={2022},   
-               publisher={ACM New York, NY}   
-               }```    
+```  
+@unknown{unknown,  
+author = {Li, Qiyue and Deng, Yuxing and Liu, Xin and Sun, Wei and Li, Weitao and Li, Jie and Liu, Zhi},  
+year = {2022},  
+month = {05},  
+pages = {},  
+title = {Autonomous Smart Grid Fault Detection},  
+doi = {10.48550/arXiv.2206.14150}  
+}  
+
+@article{li2022resource,  
+title={Resource Orchestration of Cloud-edge based Smart Grid Fault Detection},  
+author={Li, Jie and Deng, Yuxing and Sun, Wei and Li, Weitao and Li, Ruidong and Li, Qiyue and Liu, Zhi},  
+journal={ACM Transactions on Sensor Networks (TOSN)},  
+year={2022},  
+publisher={ACM New York, NY}  
+}    
+```  
 ## Copyright   
 See [LICENSE](LICENSE) for details.
